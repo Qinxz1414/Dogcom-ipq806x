@@ -1,1 +1,1 @@
-# Dogcom-for-ipq806x
+# Dogcom-for-ipq806x (HiWifi-X)
